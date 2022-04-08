@@ -18,6 +18,7 @@ Next.js
 Vercel
 
 Solidity (Hardhat)
+
 IPFS (Pinata)
 
 ## Requirements
