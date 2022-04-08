@@ -187,7 +187,7 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="https://github.com/0xWick/IPFS-NFT-dapp/blob/43a07d02b94883073369d336a34c253f45a34260/ipfs-dapp/public/LW3Punks/8.png" />
+          <img className={styles.image} src="ipfs-dapp/public/LW3Punks/3.png" />
         </div>
       </div>
 
